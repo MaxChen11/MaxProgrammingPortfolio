@@ -10,6 +10,6 @@ An amalgamation of programming projects by me
   
   Violets are blue
   
-  Unexpected }
+  Unexpected {
   
   On line 42
