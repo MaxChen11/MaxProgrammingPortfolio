@@ -6,6 +6,7 @@ An amalgamation of programming projects by me
 
 ## Javascript Projects
 
-  The line below is false
-  
-  The line above is true
+  Roses are red
+  Violets are blue
+  Unexpected }
+  On line 42
