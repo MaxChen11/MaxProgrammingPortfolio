@@ -1,8 +1,8 @@
-## ASCII Chess
+## Max Chen's Programming Portfolio
 
-A Chess game made in C++ with ASCII graphics
+I don't know what I'm doing lmao
 
-### Markdown
+### what is this
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
