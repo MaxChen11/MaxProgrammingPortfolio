@@ -7,6 +7,9 @@ An amalgamation of programming projects by me
 ## Javascript Projects
 
   Roses are red
+  
   Violets are blue
+  
   Unexpected }
+  
   On line 42
