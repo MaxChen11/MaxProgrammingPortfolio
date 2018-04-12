@@ -2,10 +2,8 @@
 
 A collection of computer programming projects made by me
 
-## ASCII Chess, made in C++
-   ## Made with a team of 3, including myself
-   ## The pieces are represented by letters
-   ## Uses OOP as opposed to a 2D array
+## ASCII Chess - Group Project
+   An ASCII Chess game made with C++
 
 ## Javascript Projects
 
