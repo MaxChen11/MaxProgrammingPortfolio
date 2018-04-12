@@ -1,10 +1,12 @@
 # Max Chen's Programming Portfolio
 
-An amalgamation of programming projects by me
+A collection of computer programming projects made by me
 
 ## C++ Projects
 
 ## Javascript Projects
+
+## A poem
 
   Roses are red
   
