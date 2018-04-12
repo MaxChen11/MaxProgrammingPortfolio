@@ -6,7 +6,7 @@ A collection of computer programming projects made by me
 
 ## Javascript Projects
 
-## A poem
+## A Poem
 
   Roses are red
   
