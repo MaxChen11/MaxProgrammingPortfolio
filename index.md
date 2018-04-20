@@ -2,8 +2,6 @@
 
 A collection of computer programming projects made by me
 
-My email: pyaesone.max@gmail.com
-
 ## ASCII Chess - Group Project
   An ASCII Chess game made with C++
    
