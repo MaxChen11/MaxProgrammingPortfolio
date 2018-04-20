@@ -7,7 +7,7 @@ A collection of computer programming projects made by me
    
   [ASCII Chess](https://github.com/Arcane-Panda/Chess)
   
-  ![Source Code](https://github.com/MaxChen11/MaxProgrammingPortfolio/blob/master/Chess.jpg)
+  ![Text](https://github.com/MaxChen11/MaxProgrammingPortfolio/blob/master/Chess.jpg)
   
 ## Simple Calculator - Solo Project
   A simple calculator made with Javascript
