@@ -19,7 +19,7 @@ A collection of computer programming projects made by me
 ## Number Guessing Game - Solo Project
    A Number Guessing Game made with C++
    
-   [Number Guessing Game](https://github.com/MaxChen11/pyaeNumberGuessingGame)
+   [Number Guessing Game](https://github.com/MaxChen11/NumberGuessingGame)
    
    <img src="NumberGuessingGame.jpg">
 
