@@ -13,7 +13,7 @@ A collection of computer programming projects made by me
   A simple calculator made with Javascript
   
   [Simple Calculator](https://github.com/MaxChen11/Calculator)
-  [I'm an inline-style link](https://www.google.com)
+
   ![Source Code](https://github.com/MaxChen11/MaxProgrammingPortfolio/blob/master/pyaeCalc.jpg)
 
 ## A Poem
