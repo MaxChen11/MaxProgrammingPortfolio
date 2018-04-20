@@ -14,7 +14,7 @@ A collection of computer programming projects made by me
   
   https://github.com/MaxChen11/Calculator
   
-  ![Source Code](https://github.com/MaxChen11/MaxProgrammingPortfolio/blob/master/CppChess.jpg)
+  ![Source Code](https://github.com/MaxChen11/MaxProgrammingPortfolio/blob/master/Chess.jpg)
 
 ## A Poem
 
