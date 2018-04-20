@@ -22,6 +22,13 @@ A collection of computer programming projects made by me
    [Number Guessing Game](https://github.com/MaxChen11/numberGuessingGame)
    
    <img src="NumberGuessingGame.jpg">
+   
+## Perimeter To Area Converter - Solo Project
+   A Visual Perimeter To Area Conversion app
+   
+   [Perimeter To Area Converter](https://github.com/MaxChen11/ConversionApp)
+   
+   <img src="PerimeterToArea.jpg">
 
 ## A Poem
 
