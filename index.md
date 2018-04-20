@@ -14,7 +14,7 @@ A collection of computer programming projects made by me
   
   [Simple Calculator](https://github.com/MaxChen11/Calculator)
 
-   <img src="pyaeCalc.jpg" alt = "">
+   <img src="pyaeCalc.jpg">
   ![Source Code](https://github.com/MaxChen11/MaxProgrammingPortfolio/blob/master/pyaeCalc.jpg)
 
 ## A Poem
