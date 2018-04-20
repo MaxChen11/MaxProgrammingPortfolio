@@ -7,7 +7,7 @@ A collection of computer programming projects made by me
    
   [ASCII Chess](https://github.com/Arcane-Panda/Chess)
   
-  ![Text](https://github.com/MaxChen11/MaxProgrammingPortfolio/blob/master/Chess.jpg)
+   <img src="Chess.jpg">
   
 ## Simple Calculator - Solo Project
   A simple calculator made with Javascript
@@ -15,7 +15,6 @@ A collection of computer programming projects made by me
   [Simple Calculator](https://github.com/MaxChen11/Calculator)
 
    <img src="pyaeCalc.jpg">
-  ![Source Code](https://github.com/MaxChen11/MaxProgrammingPortfolio/blob/master/pyaeCalc.jpg)
 
 ## A Poem
 
