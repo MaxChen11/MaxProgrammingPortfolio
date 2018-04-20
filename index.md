@@ -14,7 +14,7 @@ A collection of computer programming projects made by me
   
   [Simple Calculator](https://github.com/MaxChen11/Calculator)
 
-   <img src="pyaeCalc.jpg" height="500" width="">
+   <img src="pyaeCalc.jpg" height="520" width="290">
    
 ## Number Guessing Game - Solo Project
    A Number Guessing Game made with C++
@@ -28,7 +28,7 @@ A collection of computer programming projects made by me
    
    [Perimeter To Area Converter](https://github.com/MaxChen11/ConversionApp)
    
-   <img src="PerimeterToArea.jpg" height="520" width="290">
+   <img src="PerimeterToArea.jpg" height="500" width="500">
 
 ## A Poem
 
