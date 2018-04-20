@@ -7,14 +7,14 @@ A collection of computer programming projects made by me
    
   https://github.com/Arcane-Panda/Chess
   
-  ![Source Code](https://github.com/MaxChen11/MaxProgrammingPortfolio/blob/master/pyaeCalc.jpg)
+  ![Source Code](https://github.com/MaxChen11/MaxProgrammingPortfolio/blob/master/Chess.jpg)
   
 ## Simple Calculator - Solo Project
   A simple calculator made with Javascript
   
   https://github.com/MaxChen11/Calculator
   
-  ![Source Code](https://github.com/MaxChen11/MaxProgrammingPortfolio/blob/master/Chess.jpg)
+  ![Source Code](https://github.com/MaxChen11/MaxProgrammingPortfolio/blob/master/pyaeCalc.jpg)
 
 ## A Poem
 
