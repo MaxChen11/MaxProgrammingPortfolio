@@ -15,6 +15,13 @@ A collection of computer programming projects made by me
   [Simple Calculator](https://github.com/MaxChen11/Calculator)
 
    <img src="pyaeCalc.jpg">
+   
+## Number Guessing Game - Solo Project
+   A Number Guessing Game made with C++
+   
+   [Number Guessing Game](https://github.com/MaxChen11/pyaeNumberGuessingGame)
+   
+   <img src="NumberGuessingGame.jpg">
 
 ## A Poem
 
